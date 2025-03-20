@@ -8,7 +8,7 @@ FIELDS = ["title", "author", "year", "genre", "read"]
 
 # Set page configuration
 st.set_page_config(
-    page_title=" GIAIC Books Library Manager",
+    page_title="GIAIC Books Library Manager",
     page_icon="📚",
     layout="centered",
     initial_sidebar_state="expanded"
