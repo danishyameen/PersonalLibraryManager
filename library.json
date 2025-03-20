@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Karachi",
+    "author": "Danish Yameen",
+    "year": 2023,
+    "genre": "male",
+    "read": true
+  },
+  {
+    "title": "english",
+    "author": "danish",
+    "year": 2023,
+    "genre": "male",
+    "read": true
+  }
+]
